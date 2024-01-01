@@ -1,0 +1,8 @@
+.wrapper {
+    flex: 1; /* Fills available space */
+    padding: 1rem; /* Optional: For internal spacing */
+    display: flex;
+    flex-direction: column;
+    min-Height: 100vh;
+    /* Add any additional styling as needed */
+}
